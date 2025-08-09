@@ -1,3 +1,6 @@
+// Author: ghufyoo
+// Flutter ECR Terminal Communication
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

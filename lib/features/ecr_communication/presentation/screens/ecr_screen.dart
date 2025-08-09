@@ -1,3 +1,6 @@
+// Author: ghufyoo
+// Main ECR communication screen
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

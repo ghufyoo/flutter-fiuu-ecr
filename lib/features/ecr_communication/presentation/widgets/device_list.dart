@@ -1,3 +1,6 @@
+// Author: ghufyoo
+// Device list widget for USB device selection
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

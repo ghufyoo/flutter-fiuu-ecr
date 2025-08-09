@@ -1,3 +1,6 @@
+// Author: ghufyoo
+// Service Locator for Dependency Injection
+
 import '../../features/ecr_communication/data/datasources/serial_data_source.dart';
 import '../../features/ecr_communication/data/repositories/ecr_repository_impl.dart';
 import '../../features/ecr_communication/data/services/ecr_message_builder.dart';

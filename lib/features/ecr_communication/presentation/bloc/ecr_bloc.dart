@@ -1,3 +1,6 @@
+// Author: ghufyoo
+// ECR BLoC for state management
+
 import 'dart:async';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

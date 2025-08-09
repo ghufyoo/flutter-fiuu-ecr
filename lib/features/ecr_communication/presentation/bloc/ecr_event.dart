@@ -1,3 +1,6 @@
+// Author: ghufyoo
+// ECR BLoC events
+
 import 'package:equatable/equatable.dart';
 
 import '../../domain/entities/ecr_message.dart';

@@ -1,3 +1,6 @@
+// Author: ghufyoo
+// Base use case interface
+
 import 'package:dartz/dartz.dart';
 import '../error/failures.dart';
 

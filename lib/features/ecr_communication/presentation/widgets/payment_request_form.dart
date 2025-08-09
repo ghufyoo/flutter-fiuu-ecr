@@ -1,3 +1,6 @@
+// Author: ghufyoo
+// Payment request form widget
+
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

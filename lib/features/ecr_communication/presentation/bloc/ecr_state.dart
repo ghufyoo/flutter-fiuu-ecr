@@ -1,3 +1,6 @@
+// Author: ghufyoo
+// ECR BLoC states
+
 import 'package:equatable/equatable.dart';
 
 import '../../domain/entities/communication_log.dart';

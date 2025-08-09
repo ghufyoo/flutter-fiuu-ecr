@@ -1,3 +1,6 @@
+// Author: ghufyoo
+// Error handling failures
+
 import 'package:equatable/equatable.dart';
 
 abstract class Failure extends Equatable {
